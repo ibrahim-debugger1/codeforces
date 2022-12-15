@@ -26,7 +26,8 @@ int  main() {
 			} else ans += v[i];
 		}
 	    cout<<ans<<endl;
-	    cout<<"test commit second time"<<endl;
+	    cout<<"test commit second try"<<endl;
+	    cout<<"test commit third try"<<endl;
 	}
 	return 0;
 }
